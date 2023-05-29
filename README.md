@@ -6,3 +6,4 @@ Ballot address (Polygon Mumbai): 0x1F77178D43E98cb0e4c7C8aB73Dc430b53be0cdC
 
 Vote token address: 0xCd0aA769558C70d2FA77EbfAD8dc8f6a2AeC2235
 
+![swagger screenshot](ballot_ss.png)
